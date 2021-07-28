@@ -1,2 +1,3 @@
 # gitremoterepo
-first github
+first githhub
+git is a remote repository
